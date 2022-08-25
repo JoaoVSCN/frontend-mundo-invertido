@@ -4,6 +4,7 @@ Esse é um projeto que foi desenvolvido durante um evento da Dio.
 Se trata de um projeto com o foco na série Stranger Things, onde foi criado uma landing page com um botão que pode alterar o tema, visual da página e a música de fundo.
 foi feito com Html, Css e JavaScript, sem uso de framework, a ideia desse evento era dar um norte para aqueles que estão começando na programação Front-End.
 
+<h3>Para conferir o site por completo (mostrei pouca coisa para não ficar muito extenso aqui), você pode acessar https://cool-cheesecake-773bcf.netlify.app</h3>
 
 <strong>Cabeçalho</strong>
 
@@ -20,5 +21,3 @@ foi feito com Html, Css e JavaScript, sem uso de framework, a ideia desse evento
 <strong>Seção 1 e 2 com o tema aplicado </strong>
 
 ![image](https://user-images.githubusercontent.com/83431949/186586480-fba3120e-2999-45a2-9fe4-c996ca9a62a4.png)
-
-<h2>Para conferir o site por completo (mostrei pouca coisa para não ficar muito extenso aqui), você pode acessar https://cool-cheesecake-773bcf.netlify.app</h2>
